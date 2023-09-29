@@ -1,4 +1,5 @@
 import os
+import openai
 import streamlit as st
 import pickle
 from dotenv import load_dotenv
